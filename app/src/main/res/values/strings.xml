@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcome">Tic Tac Toe</string>
+    <string name="grid">grid</string>
+    <string name="x">x/cut</string>
+    <string name="o">zero/0</string>
+    <string name="xo">cut or zero</string>
+</resources>
